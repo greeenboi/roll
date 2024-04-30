@@ -2,7 +2,7 @@
 
 <i style="color:teal">Just Roll with it.</i>
 
-A colorful implementation of curl's http api.
+A colorful implementation of a cli tool to make http requests
 
 
 > Sample command
