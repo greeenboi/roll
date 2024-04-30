@@ -24,3 +24,47 @@ $ cargo run https://www.boredapi.com/api/activity
     "accessibility":0.1
 }
 ```
+***
+
+# Usage and flags
+
+> verbose flag
+
+```bash
+$ cargo run -v https://www.boredapi.com/api/activity 
+```
+
+```bash
+$ cargo run --verbose https://www.boredapi.com/api/activity 
+```
+
+<br/><br/>
+
+> headers flag
+
+```bash
+$ cargo run https://www.boredapi.com/api/activity -H 'your headers here'
+```
+
+<br/><br/>
+
+> method flag
+
+```bash
+$ cargo run https://www.boredapi.com/api/activity -X 'your Method'
+```
+
+<br/><br/>
+
+> data flag
+
+```bash
+$ cargo run https://www.boredapi.com/api/activity -d 'your data / Payload'
+```
+
+<br/><br/>
+
+***
+
+
+Made with Rust. 🦀
