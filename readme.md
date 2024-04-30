@@ -65,6 +65,6 @@ $ cargo run https://www.boredapi.com/api/activity -d 'your data / Payload'
 <br/><br/>
 
 ***
-
+[Find more APis Here](https://apipheny.io/free-api/)
 
 Made with Rust. 🦀
